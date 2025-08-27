@@ -3,4 +3,3 @@ Pillow
 PyPDF2
 requests
 whois
-os
